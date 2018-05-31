@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Tour Guide App Sankt Gallen</string>
+
+    <!-- Tab name attractions [CHAR LIMIT=20] -->
+    <string name="location_attractions">Attractions</string>
+
+    <!-- Tab name museums [CHAR LIMIT=20] -->
+    <string name="location_museums">Museums</string>
+
+    <!-- Tab name nature [CHAR LIMIT=20] -->
+    <string name="location_nature">Nature</string>
+
+    <!-- Tab name zoo [CHAR LIMIT=20] -->
+    <string name="location_zoo">Zoo</string>
+
+    <string name="image_desc">image</string>
+
+    <string name="zoo">Zoo</string>
+    <string name="nature">Nature</string>
+    <string name="attractions">Attractions</string>
+    <string name="museums">Museums</string>
+    <string name="abbey_library_header">Abbey Library</string>
+    <string name="abbey_library_information">The abbey library, the oldest library in Switzerland with a unique book inventory, is today an active lending library.It owns around 170,000 books and other media, from which documents published after 1900 can be borrowed. The new acquisitions of the last months can be found here.</string>
+    <string name="fuerstabtei_header">Fuerstabtei</string>
+    <string name="fuerstabtei_information">The Fuerstabtei St. Gallen was a Benedictine abbey in the eastern Switzerland and after the monastery Saeckingen the second oldest monastery in the area of ​​the Alemanni.</string>
+    <string name="kathedrale_header">Kathedrale</string>
+    <string name="kathedrale_information">Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</string>
+    <string name="wooden_bridge_from_rapperswil_to_hurden_header" />
+    <string name="wooden_bridge_from_rapperswil_to_hurden_information">Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</string>
+    <string name="forum_wuerth_rorschach_header" />
+    <string name="forum_wuerth_rorschach_information">Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</string>
+    <string name="naturmuseum_header" />
+    <string name="festungsmuseum_heldsberg_header" />
+    <string name="museum_appenzell_header" />
+    <string name="saurer_museum_header" />
+    <string name="kunstmuseum_header" />
+    <string name="naturmuseum_information">The new building offers on an area of ​​2000 m² plenty of space for the diverse permanent exhibition. The scenographic concept is based on an open design and accessible spatial images. Only especially valuable objects are protected behind glass.7 Subject areas.</string>
+    <string name="festungsmuseum_heldsberg_information">The artillery factory Heldsberg was part of the border fortification in the Rhine Valley. Due to its location it controlled with its four 7.5 cm fortress guns in the north of the eastern part of Lake Constance and in the south, the Rhine crossings in the Rhine Valley to Montlingen. Seven built-in machine guns and other used in the outer bunkers infantry and anti-tank weapons secured the access and coverage of the underground facility.</string>
+    <string name="museum_appenzell_information">The extensive collection of the Museum Appenzell includes around 25,000 objects from different areas. It provides a deeper insight into a rural everyday culture.</string>
+    <string name="saurer_museum_information">Our museum, located in the picturesque town of Arbon on Lake Constance in Switzerland, shows commercial vehicles, engines and all types of embroidery and weaving machines made in Arbon.</string>
+    <string name="kunstmuseum_information">The Kunstmuseum St.Gallen houses a rich collection of paintings and sculptures from the late Middle Ages to the present.</string>
+    <string name="saentis_mountain_header" />
+    <string name="saentis_mountain_information">The Säntis is at 2501.9 m above sea level. M. the highest mountain in the Alpstein. Due to the exposed, north-facing location of the Alpstein, the mountain is a landmark visible from afar.</string>
+    <string name="kurpark_bad_ragaz_header" />
+    <string name="botanical_garden_header" />
+    <string name="heididorf_header" />
+    <string name="kurpark_bad_ragaz_information">Very beautiful park with gardens and a small lake with swans and ducks. Very well suited to relax and have a conversation with his sweetheart.</string>
+    <string name="botanical_garden_information">Around 8,000 labeled plants from all over the world, guided tours and exhibitions on botanical topics, regular publications on plants. With this rich offer, the Botanic Garden lives up to its task as a place of education. Not all, however, come to the Botanical Garden to experience a botanical flight. The garden also has a lot to offer these visitors: a place of rest and encounter.</string>
+    <string name="heididorf_information">Experience an emotional journey back in time to the Swiss mountains of the 19th century - back to the time of Heidi. In the Heidi village above Maienfeld, visitors dive right into the \"Dörfli\" from Johanna Spyri\'s world-famous novel.</string>
+    <string name="knies_kinderzoo_header" />>
+    <string name="knies_kinderzoo_information">Knies Kinderzoo is a zoological garden in Rapperswil in the Swiss canton of St. Gallen, The zoo belongs to the Swiss National Circus Knie and is part of its winter quarters.</string>
+    <string name="peter_and_paul_header" />
+    <string name="peter_and_paul_information">On the outskirts of the city of St.Gallen, surrounded by nature, you can experience the local wildlife in the Peter and Paul Wildlife Park, opened in 1892. The location of the park also gives visitors a magnificent view towards Lake Constance or Alpstein.</string>
+    <string name="walter_zoo_header" />
+    <string name="greifvogelpark_header" />
+    <string name="walter_zoo_information">The adventure land Walter Zoo thrills young and old explorers. Around 700 animals from more than 120 different animal species make the visit a unique experience. Experience adventure - for the whole family!</string>
+    <string name="greifvogelpark_information">Come to us in the birds of prey and owl park in Buchs SG and experience our eagles, buzzards, Karakaras, falcons, vultures, owls and owls from close proximity.</string>
+
+
+</resources>
+
